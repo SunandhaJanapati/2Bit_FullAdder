@@ -1,0 +1,15 @@
+C:/ModelSimProjects/2bit_fadder.v {1 {vlog -work work -stats=none {C:\ModelSimProjects\2bit_fadder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fadder_2bit
+
+Top level modules:
+	fadder_2bit
+
+} {} {}} C:/ModelSimProjects/tb_2bit_fadder.v {1 {vlog -work work -stats=none C:/ModelSimProjects/tb_2bit_fadder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_2bit_fadder
+
+Top level modules:
+	tb_2bit_fadder
+
+} {} {}}
